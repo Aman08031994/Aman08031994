@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Aman08031994
 - 👀 I’m interested in microsoft excel and power bi
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on excel
+- 💞️ I’m looking to collaborate on excel projects.
